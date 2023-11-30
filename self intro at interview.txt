@@ -1,0 +1,15 @@
+
+"Sure sir/mam!,i am soumyaranjan rout,i am from dhenkanal.i am pursuing my <current study> from this <clg name>.I am a passionate and motivated full-stack developer eager to kickstart my career in the tech industry. I recently graduated with a degree in [your field of study or major], where I gained a solid foundation in programming and web development.
+
+During my academic journey, I worked on various projects that allowed me to hone my skills in front-end and back-end technologies. I am well-versed in HTML, CSS, and JavaScript for building responsive and user-friendly interfaces. Additionally, I have hands-on experience with popular front-end frameworks like React, which I used to create dynamic and interactive web applications.
+
+On the back-end, I have proficiency in server-side technologies such as Node.js and Express, which I leveraged to build robust APIs and manage data effectively in databases like MySQL and MongoDB.
+
+Throughout my learning process, I have been fascinated by the concept of creating seamless user experiences by integrating front-end and back-end components. I am a quick learner, and I am always excited to explore new technologies and frameworks that enhance my capabilities as a developer.
+
+Apart from technical skills, I believe my strong problem-solving and analytical abilities contribute to my effectiveness as a full-stack developer. I enjoy collaborating with teams, communicating ideas, and working together to deliver top-notch solutions to real-world challenges.
+
+This opportunity at [company name] really excites me because it aligns perfectly with my passion for full-stack development and your company's reputation for innovative projects. I am eager to contribute my skills and grow with a team of talented professionals.
+
+Thank you for considering my application. I'm looking forward to discussing more about my experiences and how I can contribute to the success of [company name]."
+
